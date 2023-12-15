@@ -1869,8 +1869,6 @@ const harvardArt = {
                             "id": "https://iiif.harvardartmuseums.org/manifests/object/203994",
                             "type": "IIIF Manifest",
                             "format": "application/json",
-                            "publiccaption": null,
-                            "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20673044",
                             "profile": "http://iiif.io/api/presentation/2/context.json"
                         }
                     ]
@@ -2023,6 +2021,8 @@ const harvardArt = {
                             "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS19152_dynmc",
                             "alttext": null,
                             "width": 820,
+                            "publiccaption": null,
+                            "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20673044",
                             "height": 1024
                         },
                         {
